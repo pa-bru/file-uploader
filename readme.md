@@ -139,23 +139,6 @@ $uploader->upload();
 ## Authors
 
 * Paul-Adrien Bru [Website][portfolio], [Linkedin][linkedin]
-* Demo page by William Merle-Marty 
-
-Copyright © 2016 Paul-Adrien Bru | MIT license
-
-  [portfolio]: http://pa-bru.fr "Visit My Portfolio"  
-  [linkedin]: https://fr.linkedin.com/in/pauladrienbru "Visit My Linkedin"
-  [FileUploader]: https://pa-bru.github.io/PaPopup/ "Demo and Doc of PaPopup"
-
-## Releases
-
-**v1.0 :**
-* Initial Version
-
-
-## Author
-
-* Paul-Adrien Bru [My Website][portfolio], [Linkedin][linkedin]
 * Demo page by William Merle-Marty [Website][willPortfolio], [Linkedin][willLinkedin]
 
 Copyright © 2016 Paul-Adrien Bru | MIT license
