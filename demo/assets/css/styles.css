@@ -1,0 +1,37 @@
+body{
+    color: #464646 !important;
+    background: #cfd8dc !important;
+    padding: 1% !important;
+}
+.add-upload,.checkbox-form{
+    margin-bottom: 50px !important;
+}
+
+.btn{
+    background: #464646  !important;
+}
+
+.input-file{
+    width: 100% !important;
+}
+
+.send-form{
+    background: #26a69a !important;
+    float: right !important;
+}
+
+.add-upload{
+    cursor: crosshair !important;
+}
+
+.input-field.col label {
+    margin-right: 20px !important;
+}
+
+.upload-files{
+    padding: 10px;
+    color: white;
+}
+.upload-files a{
+    color: white;
+}
