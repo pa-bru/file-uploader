@@ -1,0 +1,24 @@
+{
+    "name": "fileuploader/fileuploader",
+    "type": "library",
+    "description": "File uploader for PHP",
+    "keywords": ["file","upload", "uploader", "file uploader", "image"],
+    "homepage": "https://github.com/Seldaek/monolog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul-Adrien Bru",
+            "email": "p.a.bru78@gmail.com",
+            "homepage": "http://pa-bru.fr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "class/FileUploader.php"
+        ]
+    }
+}
