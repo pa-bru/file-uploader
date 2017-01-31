@@ -1,5 +1,5 @@
 {
-    "name": "pa-bru/FileUploader",
+    "name": "pa-bru/file-uploader",
     "type": "library",
     "description": "File uploader for PHP",
     "keywords": ["file","upload", "uploader", "file uploader", "image"],
