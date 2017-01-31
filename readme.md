@@ -12,6 +12,20 @@ FileUploader is a php class which enables you to upload files on your website !
 
 [**Demo & Doc→**][FileUploader]
 
+## Installation
+
+FileUploader is available via [Composer/Packagist](https://packagist.org/packages/pa-bru/file-uploader), so just add this line to your `composer.json` file:
+
+```json
+"pa-bru/file-uploader": "~1.0"
+```
+
+or
+
+```sh
+composer require pa-bru/file-uploader
+```
+
 ## Usage
 
 ### Call the class:
