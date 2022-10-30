@@ -10,7 +10,6 @@ FileUploader is a php class which enables you to upload files on your website !
 * Choose location of the uploaded files
 * Image resizing
 
-[**Demo & Doc→**][FileUploader]
 
 ## Installation
 
@@ -150,15 +149,10 @@ $uploader->upload();
 * Initial Version
 
 
-## Authors
+## Author
 
-* Paul-Adrien Bru [Website][portfolio], [Linkedin][linkedin]
-* Demo page by William Merle-Marty [Website][willPortfolio], [Linkedin][willLinkedin]
+* Paul-Adrien Bru [Linkedin][linkedin]
 
 Copyright © 2016 Paul-Adrien Bru | MIT license
 
-  [portfolio]: http://pa-bru.fr "Visit My Portfolio"  
   [linkedin]: https://fr.linkedin.com/in/pauladrienbru "Visit My Linkedin"
-  [FileUploader]: http://bru.etudiant-eemi.com/perso/tp-upload-eemi-bru-merle-marty/demo/ "Demo of FileUploader"
-  [willLinkedin]: https://fr.linkedin.com/in/williammerlemarty "Visit William Linkedin"
-  [willPortfolio]: http://william-merlemarty.fr/fr/index.php "Visit William Portfolio"
